@@ -5,39 +5,39 @@ Now, businesses need a 360-degree view of their customers, to be on the competin
 
 Being able to precisely and effectively analyse sales data can have a significant impact on a company's growth. Regular sales analysis creates accountability, unveils insights about customers, the features of top-performer in sales, and more aspects improving the bottom line. Competences, like real-time updates and data visualization, help to make better-informed business decisions that surely help the business flourish.
 
-Problem Description:
-Q	What is the Overall Sales Trend?
-Q	What Country had the highest number of Sales?
-Q	What are the Products with Major Contribution in Sales?
-Q	Which are the Most Selling Products?
-Q	What is the most preferred Shipment Mode?
-Q	Which is the most Profitable Category and Sub-Category?
-Q	Who are the High-Valued Customers?
-Q	Who are the Discount Customers?
-Q	What is the Contribution of each Market?
+Problem Description: <br>
+Q	What is the Overall Sales Trend? <br>
+Q	What Country had the highest number of Sales? <br>
+Q	What are the Products with Major Contribution in Sales? <br>
+Q	Which are the Most Selling Products? <br>
+Q	What is the most preferred Shipment Mode? <br>
+Q	Which is the most Profitable Category and Sub-Category? <br>
+Q	Who are the High-Valued Customers? <br>
+Q	Who are the Discount Customers? <br> <br>
+Q	What is the Contribution of each Market? <br>
 
-About Dataset:
+About Dataset: <br>
 The dataset consists of historical sales data of a supermarket company from the year 2011 to 2014. This is a set of over 51300 entries with information like order id, product id, price, quantity, such 21 unique fields. 
 
-Data Fields:
-•	order_id
-•	order_date
-•	ship_date
-•	ship_mode
-•	customer_name
-•	segment
-•	state
-•	country
-•	market
-•	region
-•	product_id
-•	category
-•	sub_category
-•	product_name
-•	price_each
-•	quantity
-•	discount
-•	profit
-•	shipping_cost
-•	order_priority
-•	year
+Data Fields: <br>
+•	order_id <br>
+•	order_date <br>
+•	ship_date <br>
+•	ship_mode <br>
+•	customer_name <br>
+•	segment <br>
+•	state <br>
+•	country <br>
+•	market <br>
+•	region <br>
+•	product_id <br>
+•	category <br>
+•	sub_category <br>
+•	product_name <br>
+•	price_each <br>
+•	quantity <br>
+•	discount <br>
+•	profit <br>
+•	shipping_cost <br>
+•	order_priority <br>
+•	year <br>
