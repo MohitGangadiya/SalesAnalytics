@@ -13,7 +13,7 @@ Q	Which are the Most Selling Products? <br>
 Q	What is the most preferred Shipment Mode? <br>
 Q	Which is the most Profitable Category and Sub-Category? <br>
 Q	Who are the High-Valued Customers? <br>
-Q	Who are the Discount Customers? <br> <br>
+Q	Who are the Discount Customers? <br>
 Q	What is the Contribution of each Market? <br>
 
 About Dataset: <br>
